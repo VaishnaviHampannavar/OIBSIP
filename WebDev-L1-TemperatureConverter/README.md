@@ -20,5 +20,8 @@ Temperature Converter is a web application that converts temperature values betw
 - styles.css
 - script.js
 
+
 ## Output
-Interactive temperature conversion web application.,5678/.
+
+![Temperature Converter](temperature-home.png)
+![Temperature Converter](temperature-result.png)
