@@ -23,4 +23,11 @@ Brew Haven is a responsive coffee shop landing page developed using HTML5 and CS
 - Images
 
 ## Output
-Responsive landing page for a coffee shop.
+
+### Home Page
+
+![Home](home-page.png)
+
+### Menu Page
+
+![Menu](menu-page.png)
