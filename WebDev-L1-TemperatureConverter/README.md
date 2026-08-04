@@ -26,5 +26,5 @@ Temperature Converter is a web application that converts temperature values betw
 ###Home Page
 ![Temperature Converter](temperature-home.png)
 
-###Menu Page
+###Result Page
 ![Temperature Converter](temperature-result.png)
