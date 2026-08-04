@@ -24,4 +24,5 @@ This is a responsive personal portfolio website developed using HTML5, CSS3, and
 - Images
 
 ## Output
-Responsive personal portfolio website.
+
+![Portfolio](portfolio-home.png)
